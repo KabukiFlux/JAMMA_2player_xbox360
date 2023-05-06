@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "jamma")(type "KiCad")(uri "${KIPRJMOD}/jamma.kicad_sym")(options "")(descr ""))
+  (lib (name "pi-pico")(type "KiCad")(uri "${KIPRJMOD}/pi-pico.kicad_sym")(options "")(descr ""))
+  (lib (name "usb-b")(type "KiCad")(uri "${KIPRJMOD}/usb-b.kicad_sym")(options "")(descr ""))
+)

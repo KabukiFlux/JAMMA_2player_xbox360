@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "jamma")(type "KiCad")(uri "${KIPRJMOD}/jamma.pretty")(options "")(descr ""))
+  (lib (name "kabuki")(type "KiCad")(uri "${KIPRJMOD}/kabuki.pretty")(options "")(descr ""))
+  (lib (name "pi-pico")(type "KiCad")(uri "${KIPRJMOD}/pi-pico.pretty")(options "")(descr ""))
+  (lib (name "usb-b")(type "KiCad")(uri "${KIPRJMOD}/usb-b.pretty")(options "")(descr ""))
+)
