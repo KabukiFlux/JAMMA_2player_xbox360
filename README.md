@@ -70,6 +70,8 @@ On the releases tab https://github.com/OpenStickCommunity/GP2040-CE/releases you
 
 The default mapping is done to match the one on RGBuntu OS (15khz Ubuntu OS, use Google).
 
+<b>If you are one of the RGBuntu developers: please, if possible, can you remap Player 2 on all systems as well, xD? (at the time of writing this only P1 is currently mapped by default)</b>.
+
 You can see here the mapping as a Xbox360 controller (default .uf2) but everything is labeled on the silkscreen.
 
 ![Xbox Mapping](images/xbox360_map_to_pipico.jpg)
